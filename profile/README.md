@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/icon.png" alt="Synastra Logo" width="200"/>
+  <img src="../assets/logo.png" alt="Synastra Logo" width="200"/>
 </div>
 
 # Welcome to Synastra 👋  
